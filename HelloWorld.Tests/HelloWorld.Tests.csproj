@@ -8,7 +8,6 @@
     <AnalysisLevel>latest</AnalysisLevel>
     <CodeAnalysisTreatWarningsAsErrors>false</CodeAnalysisTreatWarningsAsErrors>
     <GenerateDocumentationFile>false</GenerateDocumentationFile>
-    <!-- SA0001 and SA1633 are disabled in .editorconfig, but appear in build log for Tests project -->
     <NoWarn>CA1707</NoWarn>
   </PropertyGroup>
   <ItemGroup>
