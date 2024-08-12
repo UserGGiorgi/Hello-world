@@ -5,6 +5,7 @@ namespace HelloWorld
         public static string ReturnHelloWorld()
         {
             return "Hello, world!";
+            //return "Hello";
         }
     }
 }
